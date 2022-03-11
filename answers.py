@@ -138,6 +138,16 @@ enter: ''')
 
 string()
 
+#output:
+Enter your choice 
+a = length of the string
+b = maximum of three strings
+c = Replace every successive character with #
+d = number of words in the string
+enter: a
+Enter a string : hi me here
+The length of the string is = 10
+
 
 
 
